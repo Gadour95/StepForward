@@ -1,0 +1,6 @@
+.navbar-nav .nav-link {
+    color:  #1A73E8; /* Définit la couleur des liens en bleu */
+  }
+  .navbar-nav .nav-link:hover {
+    color:  #1A73E8; /* Change la couleur au survol */
+  }

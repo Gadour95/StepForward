@@ -1,0 +1,14 @@
+.image-container {
+    height: 50vh; /* Hauteur fixe pour le conteneur (par exemple, 50% de la hauteur de l'écran) */
+    overflow: hidden; /* Coupe l'image qui dépasse la hauteur du conteneur */
+}
+
+.image-container img {
+    width: 100%; /* L'image prend toute la largeur du conteneur */
+    height: 500px; /* Garde les proportions de l'image */
+}
+.custom-link{
+   
+    margin-left: 700px; /* Espacement à gauche */
+        margin-right: 40px; /* Espacement à droite */
+}
